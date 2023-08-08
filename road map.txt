@@ -1,0 +1,82 @@
+1- Python
+Codzilla
+https://www.youtube.com/watch?v=h3VCQjyaLws&list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ
+2- Data Collection
+	a- web scrapping
+		a- HTML and CSS (https://www.youtube.com/playlist?list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F)
+		b- Scrapping BeautifulSoup(https://www.youtube.com/playlist?list=PLmcBskOCOOFUmbUv0CIMuATDVKVrOhBMV)
+		c- Scrapping Scrapy (https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
+		d- Practical Arabic Project (https://www.youtube.com/watch?v=_nv5o_TB6FY&list=PLWd4nYaF_Vx7M4EDJzkiIgAvj3ZdJpSzM&index=9)
+ 	b- Databases and SQL
+		a- https://www.coursera.org/learn/sql-data-science?
+		b- https://www.udacity.com/course/sql-for-data-analysis--ud198
+		c- https://www.w3schools.com/sql/
+3- EDA
+	https://www.udemy.com/course/data-science-foundations/  ( Intro to Data Concepts ) ( Mustafa Othman )
+	1- probability
+		https://www.youtube.com/watch?v=3iMr419Gg1E&list=PL-cKUB-e2KiuXuUQ9POZoayIOV2oOs5GL ( Dr / Mostafa Elhussieny )
+		https://www.edx.org/course/introduction-to-probability
+		https://www.udemy.com/course/teqanny-statistics-for-data-science/  (Eng / Mustafa Othman )
+	2- Statistics
+		1- Descriptive
+			https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
+		2- Infrential
+			https://www.udacity.com/course/intro-to-inferential-statistics--ud201	
+		3- Linear Algebra
+			https://www.udemy.com/course/math-for-data-science/  ( Eng / Mustafa Othman )
+			https://www.youtube.com/playlist?list=PLQkyODvJ8ywsvbiuqUhERQw_R57h0UmA_ ( Eng / Ahmed Fathy ) 
+			https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a ( for ML)
+		4- Pandas , NumPy 
+			https://www.youtube.com/watch?v=BbuyR2HDn0U&list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s
+			https://www.youtube.com/playlist?list=PL-cKUB-e2Kivmx4z1tgaveTHaz29ZpSUE ( Dr / Mostafa Elhussieny  ... Pandas )
+			https://www.youtube.com/watch?v=r-uOLxNrNk8	(freecodecamp data analysis with python )
+		5- Review and Projects
+			https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
+			https://www.youtube.com/watch?v=4hYOkHijtNw&list=PLy3lFw0OTlutzXFVwttrtaRGEEyLEdnpy  ( 9 Projects )
+4- Data Visualization 
+			https://youtu.be/GPVsHOlRBBI?t=21171  ( Freecodecamp )
+			https://www.coursera.org/learn/python-for-data-visualization#syllabus ( IBM )
+			https://www.udemy.com/course/data-visualization-wrangling-python/  ( Very Good One , commes with offers more time )
+			https://www.coursera.org/learn/understanding-visualization-data#about
+
+5- Data Preprocessing 
+			https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning ( IBM Coursera )
+		Feature Engineering , Feature Transformation
+			Date and Time features
+			String operations
+			Web Data
+			Geospatial features
+			Data Cleaning or Cleansing
+			Work with Missing data
+			Work with Outliers
+			Encoding Categorical data
+			Scaling Data
+6- Machine Learning
+	1-stanford machine learning course (Andrew ng) ( eng hesham asem explain all this course in arabic )
+		https://www.coursera.org/learn/machine-learning
+	**Eng Heham asem section 10 code of each topic after finsh the theortical part from Andrew
+		https://www.youtube.com/playlist?list=PL6-3IRz2XF5X_9JeJh1xeciAbkijvc09k
+
+	2- New techniques in Machine learning from Udacity Machine Learning nanodegree (and also in sec 8 hesham asem )
+		https://www.youtube.com/watch?v=Kap5ymIPtaM&list=PL6-3IRz2XF5UnONA8-ENhR0NE04mIllqB
+		https://www.youtube.com/watch?v=425Jpnskt0E&list=PL6-3IRz2XF5XJKEXITqCNQN8209q3qlrL
+			KNN
+			Decision Trees
+			Random Foresst
+			Ensemble Method
+			LDA
+	3- https://www.coursera.org/professional-certificates/ibm-machine-learning
+	4- https://classroom.udacity.com/courses/ud120
+	5- https://www.coursera.org/learn/competitive-data-science?specialization=aml  ( how to win data science competition )
+7- Genral Projects
+	( Epsilon Projects Eng / Islam ) ( 4 Complete Projects )
+		https://www.youtube.com/playlist?list=PLJK2gh7De4Or2QAzjMYPmZvrReqhFZUqa 
+	( Eng Mustafa Othman )
+		https://www.youtube.com/watch?v=Ed0P_CVjJcM&list=PLWd4nYaF_Vx7M4EDJzkiIgAvj3ZdJpSzM&index=1
+		https://www.youtube.com/watch?v=yEqfEsebKF4&list=PLWd4nYaF_Vx7M4EDJzkiIgAvj3ZdJpSzM&index=2
+		https://www.youtube.com/watch?v=xk8A09Wo9Qs&list=PLWd4nYaF_Vx7M4EDJzkiIgAvj3ZdJpSzM&index=3
+		https://www.youtube.com/watch?v=Gs5HCemaH30&list=PLWd4nYaF_Vx7M4EDJzkiIgAvj3ZdJpSzM&index=13
+	( Eng Hesham Asem ) ( 7 Projects )
+		https://www.youtube.com/playlist?list=PL6-3IRz2XF5XA13ZqfacovmyOLjYwwhMt
+	( Eng Dina Gerges ) 
+		https://www.youtube.com/playlist?list=PLatl6hdtJ0RkUSCChqOAVhnv5juWaoAyK
